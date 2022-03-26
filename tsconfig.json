@@ -1,0 +1,15 @@
+{
+  "include": ["./docs/**/*.md", "./docs/.vitepress/config.js"],
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "es6",
+    "lib": ["dom", "esnext"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true
+  }
+}
