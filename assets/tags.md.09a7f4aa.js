@@ -1,0 +1,1 @@
+import{_ as t,c as a,b as o,r,o as s}from"./app.6ba9d838.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tags.md"}',n={};function c(_,p,d,i,l,m){const e=r("Tags",!0);return s(),a("div",null,[o(e)])}var g=t(n,[["render",c]]);export{u as __pageData,g as default};
