@@ -1,0 +1,1 @@
+import{_ as t,c as a,d as o,e as s,o as r}from"./app.ccf544b1.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tags.md"}',n={};function c(_,p,d,i,l,m){const e=s("Tags",!0);return r(),a("div",null,[o(e)])}var g=t(n,[["render",c]]);export{u as __pageData,g as default};

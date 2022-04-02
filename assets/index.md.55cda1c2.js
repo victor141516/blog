@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.ccf544b1.js";const m='{"title":"home","description":"","frontmatter":{"home":true,"date":"2021-06-30T00:00:00.000Z","title":"home","sidebar":false},"headers":[],"relativePath":"index.md"}',r={};function o(s,n,c,i,d,_){return a(),t("div")}var f=e(r,[["render",o]]);export{m as __pageData,f as default};
